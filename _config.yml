@@ -76,7 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://scontent.cdninstagram.com/v/t51.2885-19/434064583_728472772790758_8577649268302017429_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_ohc=9kZnDycAAicAb53Uvrn&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfB41-G4FOPLwZJAH_X0gptRtWlRfB_6LnE9iSREWYbmBg&oe=662356D9&_nc_sid=10d13b
+avatar: https://media.licdn.com/dms/image/D4D03AQHJHICHE4XsrQ/profile-displayphoto-shrink_800_800/0/1711403162345?e=1718841600&v=beta&t=lKSoayGESaQxFWUedNE57xsqT0bEarT1IS6Iz3UXOC0
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
