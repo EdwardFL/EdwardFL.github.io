@@ -73,10 +73,10 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://media.licdn.com/dms/image/D4D03AQHJHICHE4XsrQ/profile-displayphoto-shrink_800_800/0/1711403162345?e=1718841600&v=beta&t=lKSoayGESaQxFWUedNE57xsqT0bEarT1IS6Iz3UXOC0
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/D4D03AQHJHICHE4XsrQ/profile-displayphoto-shrink_800_800/0/1711403162345?e=1718841600&v=beta&t=lKSoayGESaQxFWUedNE57xsqT0bEarT1IS6Iz3UXOC0
+avatar: 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
