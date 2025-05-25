@@ -1,0 +1,13 @@
+@import 'main';
+
+/* Add custom styles after the main import */
+
+#sidebar .site-title {
+  font-size: 1.3rem;  /* Adjust the font size */
+  white-space: nowrap; /* Prevent wrapping */
+  overflow: hidden;    /* Hide overflow */
+  text-overflow: ellipsis; /* Add ellipsis if text overflows */
+  display: block;      /* Ensure block display */
+  line-height: 1.2;    /* Adjust line height */
+  margin-bottom: 0.5rem; /* Add some spacing below */
+} 
